@@ -15,10 +15,7 @@ A lightweight, dependency-free JavaScript snippet that finds custom `<flag-icon>
 1.  **Include the Script**: Add the following `script` tag to the `<head>` of your HTML document. This link uses [jsDelivr](https://www.jsdelivr.com/) to serve the file directly from your GitHub repository.
 
     ```html
-    <script
-    	src="[https://cdn.jsdelivr.net/gh/r3hab-media/flag-icon-js/flag-icon.js](https://cdn.jsdelivr.net/gh/r3hab-media/flag-icon-js/flag-icon.js)"
-    	defer
-    ></script>
+    <script src="https://cdn.jsdelivr.net/gh/r3hab-media/flag-icon-js/flag-icon.js" defer></script>
     ```
 
 2.  **Add Flag Icons**: Use the `<flag-icon>` custom tag anywhere in your HTML `<body>`.
