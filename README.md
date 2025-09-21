@@ -39,5 +39,3 @@ A lightweight, dependency-free JavaScript snippet that finds custom `<flag-icon>
      ```
 
 The script will automatically find these tags on page load and replace them with the corresponding flag images.
-# flag-icon-js
-# flag-icon-js
